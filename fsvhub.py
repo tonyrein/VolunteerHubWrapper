@@ -1,3 +1,4 @@
+# This file and other files that are part of VolunteerHubWrapper are Copyright © 2018 by Tony Rein
 
 import configparser
 import datetime

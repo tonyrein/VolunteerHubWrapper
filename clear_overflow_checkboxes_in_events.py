@@ -24,6 +24,8 @@
 #
 # Uses fsvhub and config file vhconfig.cfg
 #
+# This file and other files that are part of VolunteerHubWrapper are Copyright © 2018 by Tony Rein
+
 
 import datetime
 import re

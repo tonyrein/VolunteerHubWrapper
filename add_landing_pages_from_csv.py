@@ -25,6 +25,8 @@
 #
 # Uses fsvhub and config file vhconfig.cfg
 #
+# This file and other files that are part of VolunteerHubWrapper are Copyright © 2018 by Tony Rein
+
 import csv
 import os.path
 import re
