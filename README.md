@@ -1,4 +1,4 @@
-#<p align="center">VolunteerHubWrapper</p>
+# VolunteerHubWrapper
 
 VolunteerHub (https://www.volunteerhub.com/) is an on-line service used by non-profit agencies to help manage their volunteers’ activities. It provides a Web-based interface allowing agencies to maintain contact information, verify that waivers have been accepted, track volunteers’ hours, check people in and out of shifts, and carry out many other functions.
 
